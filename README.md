@@ -58,7 +58,7 @@ in web.confg
 ```xml
   <appSettings>
     ...
-    <add key="webapi:ProxyUrl" value="http://127.0.0.1:5001" />
+    <add key="webapi:ProxyUrl" value="http://127.0.0.1:5000" />
     <add key="webapi:JwtSecret" value="SYMETRIC KEY" />
   </appSettings>
 
